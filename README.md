@@ -13,3 +13,5 @@ To insert a new line in the text use the text '\r' within your text string.
 
 ![image](https://github.com/user-attachments/assets/eab9f2d8-1b68-424c-a18a-7324949b65be)
 
+See: https://www.paulherber.co.uk/free-visio-addons/
+
